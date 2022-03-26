@@ -1,0 +1,1 @@
+#구조화 된 데이터 유형(Structured Datatypes)
